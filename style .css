@@ -1,0 +1,41 @@
+nav{
+    background-color: black;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    padding-right: 20px;
+    font-size: 19px;
+}
+.page_img{
+    background:linear-gradient(rgba(0, 0, 0, 0.726), rgba(0, 0, 0, 0.589)), url(./images/benue.jpg );
+    height: 500px;
+    background-image: url(benue.jpg);
+    background-repeat: no-repeat;
+    background-position:center; 
+    background-size:100% 100%;
+   
+}   
+
+.page-text{
+    font-size: 30px;
+    text-align: center;
+    color:rgb(36, 153, 20);
+    margin: auto;
+    padding-top:18%;
+}
+.link a{
+    text-decoration: none;
+    font-size: 30px;
+    border: 2px solid red;
+    padding: 5px;
+    background: rgb(0, 0, 0);
+    color: white;}
+.link a:hover{
+    background: yellow;
+    color: black;
+} 
+
